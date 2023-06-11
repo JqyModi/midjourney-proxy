@@ -1,16 +1,15 @@
 mj:
   discord:
-    guild-id: xxx
-    channel-id: xxx
-    user-token: xxx
-    user-wss: true
+    guild-id: 1012590874246516766
+    channel-id: 1012590874246516769
+    user-token: MTAxMjU4ODg2ODMwMzg1MTUyMA.GcjLRI.0TOM_qw4FRvDYZASI4T7M886THTlQ-ypsQpl9Q
+    user-wss: false
     user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+    bot-token: MTExNzA0MjM5NTg1MTI2ODA5Ng.GrFFrl.Wtwy5Ql5G_QfvAmAB7Le8LyV3ZOyr9-7-F3TDc
   task-store:
     type: in_memory
     timeout: 30d
   translate-way: null
-  id-prefix: "["
-  id-suffix: "]"
   queue:
     timeout-minutes: 5
     core-size: 3
